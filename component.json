@@ -1,0 +1,9 @@
+{
+    "name":  "pressuresite",
+    "version": "0.0.1",
+    "dependencies": {
+        "backbone": "latest",
+        "angular":"latest",
+        "requirejs": "2.1.1"
+    }
+}
